@@ -1,0 +1,38 @@
+body{
+  background: #f2f2f2;
+}
+nav{
+  margin: 10px auto;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #333;
+}
+nav a{
+  color: white;
+  text-decoration: none;
+  margin-left: 12px;
+  font-size: 18px;
+  padding: 10px;
+}
+nav a:hover{
+  color: yellow;
+}
+nav .logo{
+  margin-right: auto;
+  padding-left: 10px;
+}
+
+footer{
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+  color: #777;
+  border-top: 2px solid #e7e7d9;
+}
+
+a{
+  text-decoration: none;
+}
